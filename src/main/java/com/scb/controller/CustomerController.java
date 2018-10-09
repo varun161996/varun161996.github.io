@@ -53,7 +53,7 @@ public class CustomerController {
 	public ModelAndView login(HttpServletRequest req, @RequestParam(name="user")String user,@RequestParam(name="pass")String pass, Model model, Customer cust) {
         
 		ModelAndView mav=new ModelAndView();
-        HttpSession hs = req.getSession();
+        HttpSession hs = req.getSession(); 	
 		model.addAttribute("user",user);
         model.addAttribute("pass",pass);
         System.out.println("passfrompage"+pass);

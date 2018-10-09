@@ -111,7 +111,7 @@ a:hover{
 
    
     <div class="navbarheader1" style="padding-top: 2px">
-       <p style="margin-left:81%; display: inline;font-family:Times New Roman;font-size:16px"><a href="welcome.html"><span class="glyphicon glyphicon-home"></span> Home</a>
+       <p style="margin-left:81%; display: inline;font-family:Times New Roman;font-size:16px"><a href="welcome"><span class="glyphicon glyphicon-home"></span> Home</a>
       <a href="#" style="padding-left:20px"><span class="glyphicon glyphicon-cog"></span> Settings</a>
        <a href="logout" style="padding-left:20px"><span class="glyphicon glyphicon-log-out"></span> Logout</a></p>
     </div>
